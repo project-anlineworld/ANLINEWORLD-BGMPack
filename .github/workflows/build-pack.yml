@@ -17,7 +17,7 @@ jobs:
 
       - name: Create ZIP archive
         run: |
-          zip -r "../ANLINEWORLD BGMPACK.zip" ./*
+          zip -r "ANLINEWORLD BGMPACK.zip" ./*
 
       - name: Upload to GitHub Release
         uses: softprops/action-gh-release@v2
