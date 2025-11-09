@@ -1,7 +1,7 @@
 {
 "quest_finish":{"category": "master","sounds": [{"name": "custom/quest/questfinish"}]},
 "quest_start":{"category": "master","sounds": [{"name": "custom/quest/queststart"}]},
-"StoryBGM1":{"category": "master","sounds": [{"name": "custom/quest/Peritune_Moonlit_Overture"}]},
-"StoryBGM2":{"category": "master","sounds": [{"name": "custom/quest/PeriTune"}]},
-"DungeonBGM1":{"category": "master","sounds": [{"name": "custom/quest/PerituneMaterial_RetroRPG_Dungeon"}]}
+"storybgm1":{"category": "master","sounds": [{"name": "custom/quest/peritunestory1"}]},
+"storybgm2":{"category": "master","sounds": [{"name": "custom/quest/peritunestory2"}]},
+"dungeonbgm1":{"category": "master","sounds": [{"name": "custom/quest/peritunedungeon1"}]}
 }
