@@ -1,5 +1,5 @@
 {
 "quest_finish":{"category": "master","sounds": [{"name": "custom/quest/questfinish"}]},
 "quest_start":{"category": "master","sounds": [{"name": "custom/quest/queststart"}]},
-"quest_progress":{"category": "master","sounds": [{"name": "custom/quest/questprogress"}]}
+"Story_BGM1":{"category": "master","sounds": [{"name": "custom/quest/PeriTune_mov"}]}
 }
