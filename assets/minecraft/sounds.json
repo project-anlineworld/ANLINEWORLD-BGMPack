@@ -1,8 +1,7 @@
 {
 "quest_finish":{"category": "master","sounds": [{"name": "custom/quest/questfinish"}]},
 "quest_start":{"category": "master","sounds": [{"name": "custom/quest/queststart"}]},
-"storybgm1":{"category": "master","sounds": [{"name": "custom/quest/peritunestory1"}]},
-"storybgm2":{"category": "master","sounds": [{"name": "custom/quest/peritunestory2"}]},
-"dungeonbgm1":{"category": "master","sounds": [{"name": "custom/quest/peritunedungeon1"}]},
-"environmentbgm1":{"category": "master","sounds": [{"name": "custom/quest/haito"}]}
+"storybgm1":{"category": "master","sounds": [{"name": "custom/story/peritunestory1"}]},
+"dungeonbgm1":{"category": "master","sounds": [{"name": "custom/dungeon/peritunedungeon1"}]},
+"environmentbgm1":{"category": "master","sounds": [{"name": "custom/environment/haito"}]}
 }
