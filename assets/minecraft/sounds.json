@@ -3,5 +3,6 @@
 "quest_start":{"category": "master","sounds": [{"name": "custom/quest/queststart"}]},
 "storybgm1":{"category": "master","sounds": [{"name": "custom/quest/peritunestory1"}]},
 "storybgm2":{"category": "master","sounds": [{"name": "custom/quest/peritunestory2"}]},
-"dungeonbgm1":{"category": "master","sounds": [{"name": "custom/quest/peritunedungeon1"}]}
+"dungeonbgm1":{"category": "master","sounds": [{"name": "custom/quest/peritunedungeon1"}]},
+"environmentbgm1":{"category": "master","sounds": [{"name": "custom/quest/57_廃都市水没エリア2"}]}
 }
