@@ -2,9 +2,5 @@
     "model":{
         "type":"model",
         "model":"minecraft:item/test"
-    },
-    "model1":{
-        "type":"model",
-        "model":"minecraft:item/test1"
     }
 }
