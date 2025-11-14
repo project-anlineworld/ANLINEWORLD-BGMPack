@@ -1,6 +1,6 @@
 {
     "parent":"minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/test1"
+        "layer0": "minecraft:item/mi_ring_thunder"
   }
 }
