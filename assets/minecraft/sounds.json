@@ -1,9 +1,9 @@
 {
 "quest_finish":{"category": "master","sounds": [{"name": "custom/quest/questfinish"}]},
 "quest_start":{"category": "master","sounds": [{"name": "custom/quest/queststart"}]},
-"storybgm1":{"category": "master","sounds": [{"name": "custom/story/peritunestory1"}]},
+"storybgm1":{"category": "master","sounds": [{"name": "custom/story/main_0-0-3.ogg"}]},
 "dungeonbgm1":{"category": "master","sounds": [{"name": "custom/dungeon/peritunedungeon1"}]},
-"environmentbgm1":{"category": "master","sounds": [{"name": "custom/environment/haito"}]},
+"environmentbgm1":{"category": "master","sounds": [{"name": "custom/environment/衛星都市_廃_昼"}]},
 "environmentbgm2":{"category": "master","sounds": [{"name": "custom/environment/ts"}]},
-"environmentbgm3":{"category": "master","sounds": [{"name": "custom/environment/ts1"}]}
+"environmentbgm3":{"category": "master","sounds": [{"name": "custom/environment/衛星都市_廃_夜"}]}
 }
