@@ -9,7 +9,7 @@
     "sounds": ["custom/quest/queststart"]
   },
 
-  "bgm.story.main_0_0_3": {
+  "story.main_0_0_3": {
     "category": "master",
     "sounds": [
       {
@@ -31,7 +31,7 @@
     ]
   },
 
-  "ambient.area.sc.noon": {
+  "area.sc.noon": {
     "category": "ambient",
     "sounds": [
       {
@@ -42,7 +42,7 @@
     ]
   },
 
-  "ambient.area.sc.night": {
+  "area.sc.night": {
     "category": "ambient",
     "sounds": [
       {
@@ -64,7 +64,7 @@
     ]
   },
 
-  "bgm.talk.talk_man": {
+  "system.talk.talk_man": {
     "category": "master",
     "sounds": [
       {
@@ -75,7 +75,7 @@
     ]
   },
 
-  "bgm.talk.talk_woman": {
+  "system.talk.talk_woman": {
     "category": "master",
     "sounds": [
       {
@@ -86,7 +86,7 @@
     ]
   },
 
-  "bgm.entercancel.enter": {
+  "system.entercancel.enter": {
     "category": "master",
     "sounds": [
       {
@@ -97,7 +97,7 @@
     ]
   },
 
-    "bgm.entercancel.cancel": {
+    "system.entercancel.cancel": {
         "category": "master",
         "sounds": [
         {
@@ -119,7 +119,7 @@
     ]
   },
 
-  "ambient.area.fkd.castel.library": {
+  "area.fkd.castel.library": {
     "category": "master",
     "sounds": [
       {
