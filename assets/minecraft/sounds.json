@@ -31,7 +31,7 @@
     ]
   },
 
-  "area.sc.noon": {
+  "area.sc.main.noon": {
     "category": "ambient",
     "sounds": [
       {
@@ -42,11 +42,22 @@
     ]
   },
 
-  "area.sc.night": {
+  "area.sc.main.night": {
     "category": "ambient",
     "sounds": [
       {
         "name": "custom/environment/sc/sc_area_night",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
+
+  "area.fkd.main.noon": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "custom/environment/fkd/area.fkd.main.noon",
         "stream": true,
         "volume": 0.6
       }
