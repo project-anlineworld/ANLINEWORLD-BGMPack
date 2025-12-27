@@ -3,7 +3,7 @@
 "quest_start":{"category": "master","sounds": [{"name": "custom/quest/queststart"}]},
 "storybgm1":{"category": "master","sounds": [{"name": "custom/story/main_0-0-3.ogg"}]},
 "dungeonbgm1":{"category": "master","sounds": [{"name": "custom/dungeon/peritunedungeon1"}]},
-"sc_area_noon":{"category": "master","sounds": [{"name": "custom/environment/sc_area_noon"}]},
+"sc_area_noon":{"category": "master","sounds": [{"name": "custom/environment/sc/sc_area_noon"}]},
 "environmentbgm2":{"category": "master","sounds": [{"name": "custom/environment/ts"}]},
-"sc_area_night":{"category": "master","sounds": [{"name": "custom/environment/sc_area_night"}]}
+"sc_area_night":{"category": "master","sounds": [{"name": "custom/environment/sc/sc_area_night"}]}
 }
