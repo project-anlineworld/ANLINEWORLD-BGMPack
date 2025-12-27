@@ -1,9 +1,77 @@
 {
-"quest_finish":{"category": "master","sounds": [{"name": "custom/quest/questfinish"}]},
-"quest_start":{"category": "master","sounds": [{"name": "custom/quest/queststart"}]},
-"storybgm1":{"category": "master","sounds": [{"name": "custom/story/main_0-0-3.ogg"}]},
-"dungeonbgm1":{"category": "master","sounds": [{"name": "custom/dungeon/peritunedungeon1"}]},
-"sc_area_noon":{"category": "master","sounds": [{"name": "custom/environment/sc/sc_area_noon"}]},
-"environmentbgm2":{"category": "master","sounds": [{"name": "custom/environment/ts"}]},
-"sc_area_night":{"category": "master","sounds": [{"name": "custom/environment/sc/sc_area_night"}]}
+  "system.quest.finish": {
+    "category": "master",
+    "sounds": ["custom/quest/questfinish"]
+  },
+
+  "system.quest.start": {
+    "category": "master",
+    "sounds": ["custom/quest/queststart"]
+  },
+
+  "bgm.story.main_0_0_3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/story/main_0-0-3",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+
+  "bgm.dungeon.peritune_1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/dungeon/peritunedungeon1",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+
+  "ambient.area.sc.noon": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "custom/environment/sc/sc_area_noon",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
+
+  "ambient.area.sc.night": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "custom/environment/sc/sc_area_night",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
+
+  "bgm.environment.ts": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/environment/ts",
+        "stream": true,
+        "volume": 0.7
+      }
+    ]
+  },
+
+  "bgm.other.second_dealing": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/other/other1/SrcondDealing",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  }
 }
