@@ -64,6 +64,50 @@
     ]
   },
 
+  "bgm.talk.talk_man": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/system/talk/talk_man",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+
+  "bgm.talk.talk_woman": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/system/talk/talk_woman",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+
+  "bgm.entercancel.enter": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/system/enter_cancel/enter",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+
+    "bgm.entercancel.cancel": {
+        "category": "master",
+        "sounds": [
+        {
+            "name": "custom/system/enter_cancel/cancel",
+            "stream": true,
+            "volume": 0.8
+        }
+        ]
+    },
+    
   "bgm.other.second_dealing": {
     "category": "master",
     "sounds": [
