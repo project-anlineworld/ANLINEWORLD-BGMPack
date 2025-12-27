@@ -68,7 +68,7 @@
     "category": "master",
     "sounds": [
       {
-        "name": "custom/other/other1/SrcondDealing",
+        "name": "custom/other/other1/SecondDealing",
         "stream": true,
         "volume": 0.8
       }
