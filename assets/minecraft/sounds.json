@@ -117,5 +117,16 @@
         "volume": 0.8
       }
     ]
+  },
+
+  "ambient.area.fkd.castel.library": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/environment/fkd/castle/fkd_castel_library",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
   }
 }
