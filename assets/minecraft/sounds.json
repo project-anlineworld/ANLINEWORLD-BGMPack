@@ -123,7 +123,7 @@
     "category": "master",
     "sounds": [
       {
-        "name": "custom/environment/fkd/castle/fkd_castel_library",
+        "name": "custom/environment/fkd/castel/fkd_castel_library",
         "stream": true,
         "volume": 0.8
       }
