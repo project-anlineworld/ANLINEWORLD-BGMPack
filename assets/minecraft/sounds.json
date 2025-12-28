@@ -9,6 +9,17 @@
     "sounds": ["custom/quest/queststart"]
   },
 
+  "system.book.turnthepage": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/system/book/turnthepage",
+        "stream": true,
+        "volume": 0.7
+      }
+    ]
+  },
+
   "story.main_0_0_3": {
     "category": "master",
     "sounds": [
@@ -59,7 +70,7 @@
       {
         "name": "custom/environment/fkd/area.fkd.main.noon",
         "stream": true,
-        "volume": 0.6
+        "volume": 0.4
       }
     ]
   },
@@ -136,7 +147,7 @@
       {
         "name": "custom/environment/fkd/castel/fkd_castel_library",
         "stream": true,
-        "volume": 0.8
+        "volume": 0.5
       }
     ]
   }
