@@ -26,7 +26,7 @@
       {
         "name": "custom/story/main_0-0-3",
         "stream": true,
-        "volume": 0.8
+        "volume": 0.6
       }
     ]
   },
@@ -148,6 +148,17 @@
         "name": "custom/environment/fkd/castel/fkd_castel_library",
         "stream": true,
         "volume": 0.5
+      }
+    ]
+  },
+
+  "bgm.system.peakychm": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/system/chm",
+        "stream": true,
+        "volume": 0.7
       }
     ]
   }
