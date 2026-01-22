@@ -161,5 +161,27 @@
         "volume": 0.7
       }
     ]
+  },
+
+  "bgm.battle.1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/battle/AssaultProtocol",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+
+  "bgm.battle.2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/battle/Celestial_Meadow",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
   }
 }
