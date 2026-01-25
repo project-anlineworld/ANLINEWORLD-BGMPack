@@ -1,12 +1,12 @@
 {
   "system.quest.finish": {
     "category": "master",
-    "sounds": ["custom/quest/questfinish"]
+    "sounds": ["custom/quest/questfinish_original"]
   },
 
   "system.quest.start": {
     "category": "master",
-    "sounds": ["custom/quest/queststart"]
+    "sounds": ["custom/quest/queststart_original"]
   },
 
   "system.book.turnthepage": {
@@ -46,7 +46,7 @@
     "category": "ambient",
     "sounds": [
       {
-        "name": "custom/environment/sc/sc_area_noon",
+        "name": "custom/environment/sc/sc_area_noon_nc",
         "stream": true,
         "volume": 0.6
       }
@@ -57,7 +57,7 @@
     "category": "ambient",
     "sounds": [
       {
-        "name": "custom/environment/sc/sc_area_night",
+        "name": "custom/environment/sc/sc_area_night_nc",
         "stream": true,
         "volume": 0.6
       }
@@ -79,7 +79,7 @@
     "category": "master",
     "sounds": [
       {
-        "name": "custom/environment/ts",
+        "name": "custom/environment/ts_nc",
         "stream": true,
         "volume": 0.7
       }
