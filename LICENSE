@@ -28,6 +28,8 @@ MINE-SPOT が運営する公式 Minecraft プロジェクト
 これらの著作権は各権利者に帰属し、
 MINE-SPOT および本リソースパックの利用者は、
 当該著作物の権利を侵害しない範囲でのみ利用するものとします。
+また、本リソースパックに含まれる第三者著作物について、当該著作物の利用規約または仕様許諾条件が、本ライセンスの前項と異なる定めを有する場合は、当該第三者著作物に関する限り、その著作権者が定める利用規約または仕様許諾条件が優先して適用されるものとします。
+この場合、本ライセンス規定は、当該第三者著作物の利用範囲において、当該第三者規約と抵触する部分に限り効力を有しないものとします。
 
 本リソースパックの利用は、
 第三者著作物の著作権を譲渡または許諾するものではありません。
@@ -67,6 +69,10 @@ The Resource Pack may include third-party materials (such as free assets)
 used with proper permission from their respective copyright holders.
 All copyrights to such materials remain with their original creators.
 
+In the event that the terms of use or license conditions applicable to any third-party copyrighted works included in this Resource Pack differ from the provisions of this License, the terms of use or license, the terms of use or license conditions established by the respective copyright holder shall prevail with respect to such third-party workd.
+
+In such cases, the provisions of this License shall be deemed ineffective solely to the extent that they conflict with the applicable third-party terms within the scope of use of the relevant third-party works.
+
 Neither MINE-SPOT nor users of the Resource Pack may infringe upon
 the rights of such third-party copyright holders.
 Use of the Resource Pack does not grant or transfer any rights
@@ -76,3 +82,20 @@ All rights are reserved by the copyright holder.
 Any violation of this license will result in immediate termination of permission.
 
 The Resource Pack is provided "as is", without warranty of any kind.
+
+
+権利表記
+
+*LICENSE.txt
+
+このゲームで使用している音楽は、
+フリーBGMサイト「なぐもりずの音楽室」より配布されている楽曲を利用しています。
+
+音楽提供：
+なぐもりずの音楽室
+Website: https://nagumorizu.com/
+YouTube: https://www.youtube.com/@nagumorizu
+
+※本ゲーム内で使用している楽曲の著作権は、作曲者の南雲 莉翠(nagumorizu)に帰属します。
+※本利用は「なぐもりずの音楽室」利用規約(https://nagumorizu.com/tos/)に基づき行われています。
+
