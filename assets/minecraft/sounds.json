@@ -183,5 +183,16 @@
         "volume": 0.8
       }
     ]
+  },
+
+  "bgm.tutorial": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/environment/tutorial",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
   }
 }
