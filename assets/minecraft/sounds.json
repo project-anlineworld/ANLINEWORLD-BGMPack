@@ -191,7 +191,7 @@
       {
         "name": "custom/environment/tutorial",
         "stream": true,
-        "volume": 0.8
+        "volume": 0.5
       }
     ]
   }
