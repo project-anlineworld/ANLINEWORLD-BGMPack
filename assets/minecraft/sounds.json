@@ -31,6 +31,17 @@
     ]
   },
 
+    "story.main_0_0_4": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "custom/story/PerituneMaterial_Dawning_Tale",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
+
   "bgm.dungeon.peritune_1": {
     "category": "master",
     "sounds": [
