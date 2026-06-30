@@ -36,6 +36,16 @@
       }
     ]
   },
+    "story.main_0_0_4": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/story/Peritune_main",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
   "bgm.dungeon.peritune_1": {
     "category": "master",
     "sounds": [
