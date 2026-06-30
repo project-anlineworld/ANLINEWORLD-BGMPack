@@ -1,208 +1,377 @@
 {
   "system.quest.finish": {
     "category": "master",
-    "sounds": ["custom/quest/questfinish_original"]
+    "sounds": [
+      {
+        "name": "anlineworld/sfx/quest/finish",
+        "volume": 1.0
+      }
+    ]
   },
-
   "system.quest.start": {
     "category": "master",
-    "sounds": ["custom/quest/queststart_original"]
+    "sounds": [
+      {
+        "name": "anlineworld/sfx/quest/start",
+        "volume": 1.0
+      }
+    ]
   },
-
   "system.book.turnthepage": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/system/book/turnthepage_nc",
-        "stream": true,
+        "name": "anlineworld/sfx/ui/page_turn",
         "volume": 0.7
       }
     ]
   },
-
   "story.main_0_0_3": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/story/main_0-0-3",
+        "name": "anlineworld/bgm/story/main_0_0_3",
         "stream": true,
         "volume": 0.6
       }
     ]
   },
-
-    "story.main_0_0_4": {
-    "category": "master",
-    "sounds": [
-      {
-        "name": "custom/story/PerituneMaterial_Dawning_Tale",
-        "stream": true,
-        "volume": 0.6
-      }
-    ]
-  },
-
   "bgm.dungeon.peritune_1": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/dungeon/peritunedungeon1",
+        "name": "anlineworld/bgm/dungeon/dungeon_0_0_0",
         "stream": true,
         "volume": 0.8
       }
     ]
   },
-
   "area.sc.main.noon": {
     "category": "ambient",
     "sounds": [
       {
-        "name": "custom/environment/sc/sc_area_noon_nc",
+        "name": "anlineworld/bgm/area/sc/main_noon",
         "stream": true,
         "volume": 0.6
       }
     ]
   },
-
   "area.sc.main.night": {
     "category": "ambient",
     "sounds": [
       {
-        "name": "custom/environment/sc/sc_area_night_nc",
+        "name": "anlineworld/bgm/area/sc/main_night",
         "stream": true,
         "volume": 0.6
       }
     ]
   },
-
-  "area.fkd.main.noon": {
-    "category": "ambient",
-    "sounds": [
-      {
-        "name": "custom/environment/fkd/area.fkd.main.noon",
-        "stream": true,
-        "volume": 0.4
-      }
-    ]
-  },
-
   "bgm.environment.ts": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/environment/ts_nc",
+        "name": "anlineworld/bgm/area/ts/main",
         "stream": true,
         "volume": 0.7
       }
     ]
   },
-
   "system.talk.talk_man": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/system/talk/talk_man_nc",
-        "stream": true,
+        "name": "anlineworld/sfx/dialogue/talk_male",
         "volume": 0.8
       }
     ]
   },
-
   "system.talk.talk_woman": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/system/talk/talk_woman_nc",
-        "stream": true,
+        "name": "anlineworld/sfx/dialogue/talk_female",
         "volume": 0.8
       }
     ]
   },
-
   "system.entercancel.enter": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/system/enter_cancel/enter_nc",
-        "stream": true,
+        "name": "anlineworld/sfx/ui/confirm",
         "volume": 0.8
       }
     ]
   },
-
-    "system.entercancel.cancel": {
-        "category": "master",
-        "sounds": [
-        {
-            "name": "custom/system/enter_cancel/cancel_nc",
-            "stream": true,
-            "volume": 0.8
-        }
-        ]
-    },
-    
+  "system.entercancel.cancel": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/sfx/ui/cancel",
+        "volume": 0.8
+      }
+    ]
+  },
   "bgm.other.second_dealing": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/other/other1/SecondDealing",
+        "name": "anlineworld/bgm/misc/second_dealing",
         "stream": true,
         "volume": 0.8
       }
     ]
   },
-
-  "area.fkd.castel.library": {
+  "bgm.battle.1": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/environment/fkd/castel/fkd_castel_library",
+        "name": "anlineworld/bgm/battle/assault_protocol",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "bgm.battle.2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/battle/celestial_meadow",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "bgm.tutorial": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/tutorial/tutorial",
         "stream": true,
         "volume": 0.5
       }
     ]
   },
-
-  "bgm.system.peakychm": {
+  "anlineworld.sfx.quest.finish": {
     "category": "master",
     "sounds": [
       {
-        "name": "custom/system/chm",
+        "name": "anlineworld/sfx/quest/finish",
+        "volume": 1.0
+      }
+    ]
+  },
+  "anlineworld.sfx.quest.start": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/sfx/quest/start",
+        "volume": 1.0
+      }
+    ]
+  },
+  "anlineworld.sfx.ui.page_turn": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/sfx/ui/page_turn",
+        "volume": 0.7
+      }
+    ]
+  },
+  "anlineworld.sfx.ui.confirm": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/sfx/ui/confirm",
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.sfx.ui.cancel": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/sfx/ui/cancel",
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.sfx.dialogue.talk_male": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/sfx/dialogue/talk_male",
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.sfx.dialogue.talk_female": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "anlineworld/sfx/dialogue/talk_female",
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.bgm.battle.assault_protocol": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/battle/assault_protocol",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.bgm.battle.celestial_meadow": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/battle/celestial_meadow",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.bgm.dungeon.dungeon_0_0_0": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/dungeon/dungeon_0_0_0",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.bgm.story.main_0_0_3": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/story/main_0_0_3",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
+  "anlineworld.bgm.tutorial": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/tutorial/tutorial",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+  "anlineworld.bgm.area.sc.main_noon": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/area/sc/main_noon",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
+  "anlineworld.bgm.area.sc.main_night": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/area/sc/main_night",
+        "stream": true,
+        "volume": 0.6
+      }
+    ]
+  },
+  "anlineworld.bgm.area.ts.main": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/area/ts/main",
         "stream": true,
         "volume": 0.7
       }
     ]
   },
-
-  "bgm.battle.1": {
-    "category": "master",
+  "anlineworld.bgm.misc.second_dealing": {
+    "category": "music",
     "sounds": [
       {
-        "name": "custom/battle/AssaultProtocol",
+        "name": "anlineworld/bgm/misc/second_dealing",
         "stream": true,
         "volume": 0.8
       }
     ]
   },
-
-  "bgm.battle.2": {
-    "category": "master",
+  "anlineworld.bgm.library.huenowarutu": {
+    "category": "music",
     "sounds": [
       {
-        "name": "custom/battle/Celestial_Meadow",
+        "name": "anlineworld/bgm/library/huenowarutu",
         "stream": true,
         "volume": 0.8
       }
     ]
   },
-
-  "bgm.tutorial": {
-    "category": "master",
+  "anlineworld.bgm.library.bokureinomori": {
+    "category": "music",
     "sounds": [
       {
-        "name": "custom/environment/tutorial",
+        "name": "anlineworld/bgm/library/bokureinomori",
         "stream": true,
-        "volume": 0.5
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.bgm.library.soziasyusyu": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/library/soziasyusyu",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.bgm.library.kihyounomori": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/library/kihyounomori",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.bgm.library.konegi": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/library/konegi",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.bgm.library.sitti": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/library/sitti",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "anlineworld.bgm.library.hurubitasyoka": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "anlineworld/bgm/library/hurubitasyoka",
+        "stream": true,
+        "volume": 0.8
       }
     ]
   }
